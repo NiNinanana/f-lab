@@ -1,0 +1,23 @@
+{
+  "name": "f-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deepCopy.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiNinanana/f-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiNinanana/f-lab/issues"
+  },
+  "homepage": "https://github.com/NiNinanana/f-lab#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
